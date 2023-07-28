@@ -24,6 +24,8 @@ Her bir proje klasörü içerisinde, proje özelliklerine uygun olarak ekstra ge
   git clone https://github.com/kullanici_adi/proje-repo.git
   cd proje-repo
 
+
+
 İyi Eğlenceler
 
 ## Katkılar
