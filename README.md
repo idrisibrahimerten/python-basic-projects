@@ -20,9 +20,9 @@ Her bir proje klasörü içerisinde, proje özelliklerine uygun olarak ekstra ge
 
 1. Bu deposu yerel makinenize klonlayın:
 
-```bash
-git clone https://github.com/kullanici_adi/proje-repo.git
-cd proje-repo
+  ```bash
+  git clone https://github.com/kullanici_adi/proje-repo.git
+  cd proje-repo
 
 İyi Eğlenceler
 
