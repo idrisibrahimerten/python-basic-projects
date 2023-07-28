@@ -1,4 +1,4 @@
-# Proje Adı
+# Python Basit Projeler
 
 Bu proje, Python dilinde geliştirilen temel projelerin yer aldığı bir GitHub deposudur. Projeler, Python programlama becerilerini geliştirmek isteyenler için eğitici ve ilgi çekici içeriğe sahiptir. Her bir proje, açıklamaları ve uygulamaları içeren kendi klasörüne sahiptir.
 
